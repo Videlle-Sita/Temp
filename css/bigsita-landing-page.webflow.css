@@ -13858,7 +13858,7 @@ blockquote {
     border-width: 1px;
     border-color: var(--border-color-1);
     width: 93%;
-    height: 310px;
+    height: 150px;
     min-height: 70%;
     max-height: 70%;
     box-shadow: none;
@@ -15558,7 +15558,7 @@ blockquote {
   }
 
   .link.button-style.countdown {
-    margin-top: 5rem;
+    margin-top: 1rem;
   }
 
   .div-block-34 {
@@ -15718,7 +15718,7 @@ blockquote {
   }
 
   .code-embed-3.red {
-    margin-bottom: 1rem;
+    margin-bottom: 0;
   }
 
   .div-block-42 {
